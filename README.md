@@ -4,6 +4,15 @@ A premium, performance-optimized reading companion designed to eliminate visual 
 
 ---
 
+## 🚀 Installation & Usage
+
+This companion runs as a userscript. You can install it on any major userscript manager (like **Violentmonkey**, **Tampermonkey**, or **Greasemonkey**) via these official sources:
+
+* **[GreasyFork Repository](https://greasyfork.org/en/scripts/579811-auto-scroll-bionic-reading-adhd-focus-lane)**
+* **[OpenUserJS Repository](https://openuserjs.org/scripts/mandy321/Auto_Scroll_Bionic_Reading_ADHD_Focus_Lane)**
+
+---
+
 ## ⚡ Key Interventions
 
 ### 1. Bionic Reading Engine (The Bold Feature)
