@@ -1,5 +1,9 @@
 # Comfortable Reading Auto-Scroll (Premium Companion)
 
+<p align="center">
+  <img src="icon.png" width="128" height="128" alt="Autoscroll Bionic Reading Logo">
+</p>
+
 A premium, performance-optimized reading companion designed to eliminate visual fatigue, increase reading speed, and assist neurodivergent readers (ADHD, Dyslexia) in maintaining deep focus across the web.
 
 ---
